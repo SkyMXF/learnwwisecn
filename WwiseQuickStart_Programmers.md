@@ -157,7 +157,7 @@ Wwise SDK | `SDK/` | 程序员 | 声音引擎、插件库和例程
 ### 什么是 Debug、Profile 和 Release？
 ----
 
-在`Wwise/SDK/<平台名>/bin/`和`Wwise/SDK/<平台名>/lib/`下面你会看到`Debug`、`Profile`和`Profile`三个子目录，这是 Wwise 为了支持开发流程而准备的。`lib`子目录下面的 SDK 程序库对应三种配置：
+在`Wwise/SDK/<平台名>/bin/`和`Wwise/SDK/<平台名>/lib/`下面你会看到`Debug`、`Profile`和`Release`三个子目录，这是 Wwise 为了支持开发流程而准备的。`lib`子目录下面的 SDK 程序库对应三种配置：
 
 -   **Debug**：用来调试的未优化版本，支持与 Wwise 设计工具通过网络连接来进行实时混音、性能监测和[调试](#sec-debug)；
 
